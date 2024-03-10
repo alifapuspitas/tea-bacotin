@@ -1,0 +1,24 @@
+{
+  "name": "tea-bacotin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alifapuspitas/tea-bacotin.git"
+  },
+  "author": "alifah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alifapuspitas/tea-bacotin/issues"
+  },
+  "homepage": "https://github.com/alifapuspitas/tea-bacotin#readme",
+  "dependencies": {
+    "tea-mengakun": "^1.0.0",
+    "tea-semangat": "^1.0.0",
+    "tea-yulvan": "^1.0.0"
+  }
+}
